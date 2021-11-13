@@ -9,4 +9,4 @@ Create a file called `custom_commands.sqlite` in the main dicectory of your bot.
 The code should start working if you paste it inside a folder in the main directory.
 
 # HOWEVER
-please don't just copy it :( you won't learn anything by pasting it, this module is more public to help people who are trying it the same way as i did.
+please don't just copy it :( you won't learn anything by pasting it, this module is public to help people who are trying it the same way as i did.
