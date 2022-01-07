@@ -2,7 +2,6 @@ import sqlite3
 import disnake
 from disnake import Embed
 from disnake.ext import commands
-OTE2OTkyMDg0Nzk0Mjc3ODk4.YayNbQ.3RiUAxmqEPI0QYHqauD6mv74pKo
 prefix = "!"
 
 colour = 0x5865f2
