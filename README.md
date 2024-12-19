@@ -8,3 +8,6 @@ The code should start working if you paste it inside a folder in the main direct
 
 # HOWEVER
 please don't just copy it :( you won't learn anything by pasting it, this module is public to help people who are trying it the same way as i did.
+
+# disclaimer
+edit: this was one of my first things to code that actually used some sort of data storage. not the best code. 
